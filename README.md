@@ -23,6 +23,7 @@ I will build this entire project myself from the ground up (most of it is alread
 
    d. HMI (I won't do much here beyond a simple skeleton or even just a placeholder. This ain't my thing)
 
+5. BMS
 
 I am creating my own ADAS project because fuck Lucid Motors and fuck Rivian-Volkswagen Tech.
 Fuck both of you for all the rejections and for wasting my time with so many interviews and false hope,
