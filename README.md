@@ -38,6 +38,6 @@ You caused me so much grief and destroyed my sense of self-worth.
 You have no idea the struggles I have faced or how hard I have worked.
 You have no idea how much I have suffered and the self-doubt, depression and anguish YOU caused me.
 
-But what do you care. Just keep giving good jobs to fuckin' Senthil-Kumars or Karthiks.
+But what do you care. Just KEEP giving good jobs to fuckin' Senthil-Kumars or Karthiks. Rest assured, they'll KEEP stinking up the office.
 
 Fuck you.
