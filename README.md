@@ -4,15 +4,25 @@ This project will contain EVERY module of a fully-functional ADAS, neatly organi
 I will build this entire project myself from the ground up:
 
 1. Perception & Sensor Fusion
+
 2. Processing:
+
    a. Object Tracking & State Estimation (One might call this "Scene Prediction", perhaps)
+
    b. Mapping & Localization
+
    c. Decision Making and Path Planning
-3. Controls & Actuation
+
+4. Controls & Actuation:
+
    a. Steering
+
    b. Braking
+
    c. Throttle & Powertrain
+
    d. HMI (I won't do much here beyond a simple skeleton or even just a placeholder. This ain't my thing)
+
 
 I am creating my own ADAS project because fuck Lucid Motors and fuck Rivian-Volkswagen Tech.
 Fuck both of you for all the rejections and for wasting my time with so many interviews and false hope,
