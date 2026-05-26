@@ -1,7 +1,7 @@
 # ADAS Battery Electric Vehicle
 This project will contain EVERY module of a fully-functional ADAS, neatly organized and ready to be flashed on chassis hardware.
 
-I will build this entire project myself from the ground up:
+I will build this entire project myself from the ground up (most of it is already done):
 
 1. Perception & Sensor Fusion
 
