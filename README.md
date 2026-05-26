@@ -1,5 +1,5 @@
 # ADAS Battery Electric Vehicle
-This project will contain EVERY module of a fully-functional ADAS, neatly organized and ready to be flashed on chassis hardware.
+This project will contain EVERY module of a fully-functional ADAS, neatly organized and ready to be flashed onto chassis hardware.
 
 I will build this entire project myself from the ground up (most of it is already done):
 
